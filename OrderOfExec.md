@@ -14,9 +14,9 @@ Salesforce Order of Execution
 * Commit
 * Post Commit(Emails etc..)
 
-`
-> **Note:** 
-> Formula fields are calculated on run-time when they are accessed.
+
+> ` **Note:** 
+>  Formula fields are calculated on run-time when they are accessed. `
 > 
 `
 
