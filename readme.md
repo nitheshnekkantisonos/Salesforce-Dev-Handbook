@@ -1,6 +1,6 @@
-# Salesforce - Platform Developer 1 Certification Notes
+# Salesforce - Developer Notes
 
-These are a bunch of notes that I made before appearing for the exam. The purpose is not to cover the basics but to have some of the advanced topics that one might not remember.
+These are a bunch of notes that I gathered for the purpose of covering the basics and to have some of the advanced topics that one might not remember.
 
 1. [Exceptions](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/async.md)
 2. [Triggers](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/triggers.md)
@@ -11,8 +11,7 @@ These are a bunch of notes that I made before appearing for the exam. The purpos
 7. [Development Lifecycle](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/lifecycle.md)
 
 ## Optional
-1. [Large Data Volumes](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/ldv.md)
-2. [Single Sign On](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/sso.md)
-3. [Integration](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/integration.md)
-4. [Security](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/security.md)
-5. [Siebel to Salesforce](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/siebel.md)
+
+1. [Single Sign On](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/sso.md)
+2. [Integration](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/integration.md)
+3. [Security](https://github.com/nithesh1992/Salesforce-Dev-Hanbook/blob/master/security.md)
