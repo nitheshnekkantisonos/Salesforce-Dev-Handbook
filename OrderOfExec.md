@@ -18,7 +18,7 @@ Salesforce Order of Execution
 >  **Note:** 
 >  `Formula fields are calculated on run-time when they are accessed. `
 > 
-`
+
 
 Visualforce Order of Execution
 ===============================
