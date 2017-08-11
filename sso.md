@@ -1,4 +1,9 @@
 # Single Sign On
+SSO is a Process, Where User can Log into multiple applications by going through the Authentication process **Only Once**
+
+Two ways to implement SSO is Salesforce:
+1) Delegated Auth (Salesforce Proprietary solution) 
+2) Federated Auth (SAML)
 
 * Preferred method is Standards based SAML
 * Best way is to use the My Domain Feature
