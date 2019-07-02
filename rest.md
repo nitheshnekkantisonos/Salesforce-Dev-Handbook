@@ -41,6 +41,7 @@ In the above example we are splitting the URL and taking the last index
 }
  ```
  
+ ## Simple Apex Rest Callout
  
  ```java
  public class HttpCalloutSample {
