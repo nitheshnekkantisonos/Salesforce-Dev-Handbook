@@ -9,6 +9,7 @@
     SELECT [fieldList], [subquery] 
     TYPEOF <typeOfField> when <expression> else <expression> END
     FROM [sObjectType]
+    USING SCOPE [filterScope]
     ```
 
 ### Type Of 
@@ -22,6 +23,18 @@
       END
     FROM Event
     ```
-    
 
+### Using Scope    
+Available Scopes :
+ * everything
+ * mine
+ * mine_and_my_groups
+ * my_territory
+ * my_team_territory
+ * team
 
+    ```sql
+    SELECT Id, CaseNumber
+    FROM CASE
+    USING SCOPE MINE
+    ```
