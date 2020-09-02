@@ -31,7 +31,7 @@
     ```
 
 ### Using Scope    
-* Available Scopes : everything, mine, mine_and_my_groups, my_territory, my_team_territory, team
+* *Available Scopes* : everything, mine, mine_and_my_groups, my_territory, my_team_territory, team
     ```sql
     SELECT Id, CaseNumber
     FROM CASE
