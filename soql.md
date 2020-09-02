@@ -11,6 +11,11 @@
     FROM [sObjectType]
     USING SCOPE [filterScope]
     WHERE [condition]
+    WITH SECURITY_ENFORCED
+    ORDER BY <fieldOrderByList> {ASC|DESC} [NULLS {FIRST|LAST}]
+    LIMIT <numberOfRowsToReturn>
+    OFFSET <numberOfRowsToSkip>
+    FOR {VIEW  | REFERENCE | UPDATA}
     ```
 
 ### Type Of 
