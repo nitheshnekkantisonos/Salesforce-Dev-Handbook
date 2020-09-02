@@ -15,7 +15,7 @@
     ORDER BY <fieldOrderByList> {ASC|DESC} [NULLS {FIRST|LAST}]
     LIMIT <numberOfRowsToReturn>
     OFFSET <numberOfRowsToSkip>
-    FOR {VIEW  | REFERENCE | UPDATA}
+    FOR {VIEW  | REFERENCE | UPDATE}
     ```
 
 ### Type Of 
