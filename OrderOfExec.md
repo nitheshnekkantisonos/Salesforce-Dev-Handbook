@@ -1,23 +1,11 @@
 Salesforce Order of Execution
 ==============================
 
-* System Validation 
-* Before Trigger
-* Custom Validation
-* After Trigger
-* Assignment Rules
-* Auto Response Rules
-* WorkFlow Rules (Then BT and AT if needed)
-* Escalation Rules
-* RollupSummary and CrossObject Formula fields
-* Criteria Based Sharing Eval
-* Commit
-* Post Commit(Emails etc..)
-
-
 >  **Note:** 
 >  `Formula fields are calculated on run-time when they are accessed. `
 > 
+
+![image](https://github.com/user-attachments/assets/f3be84af-93bd-40f8-8617-6af472555362)
 
 
 Visualforce Order of Execution
